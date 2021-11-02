@@ -1,0 +1,17 @@
+{
+  "name": "r2f",
+  "version": "0.1.0",
+  "description": "r2f is a database record relationship finder that helps find related records in other tables of a certain record.",
+  "main": "bin/r2f",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuki Omoto",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql": "^2.18.1",
+    "pluralize": "^8.0.0",
+    "tunnel-ssh": "^4.1.4"
+  }
+}
